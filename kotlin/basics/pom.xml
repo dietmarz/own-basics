@@ -13,7 +13,7 @@
 
 
     <groupId>de.ztronics</groupId>
-    <artifactId>basics</artifactId>
+    <artifactId>kotlin-basics</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

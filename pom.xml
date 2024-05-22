@@ -6,6 +6,9 @@
 
     <modules>
         <module>kotlin/basics</module>
+        <module>react/basic</module>
+        <module>react/basic-typescript</module>
+        <module>typescript/basic</module>
     </modules>
 
     <groupId>de.ztronics.own-basics</groupId>
